@@ -1,0 +1,2 @@
+BlackBox/Component Pascal is being taken over by an international center for its maintenance and evolution.
+This project is an experiment using Google Code to see how easy (or not) it would be to use Google Code.
